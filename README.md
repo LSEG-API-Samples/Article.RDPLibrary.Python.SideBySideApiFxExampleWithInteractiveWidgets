@@ -650,7 +650,7 @@ plot_surface(fx_surfaces, 'FxVol-GBPUSD', True)
 
 
     
-![png](output_17_0.png)
+![png](output_17_0[1].png)
     
 
 
